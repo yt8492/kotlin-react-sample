@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="kotlin-react-sample-1.0.0">
+    <output-path>$PROJECT_DIR$/build/libs</output-path>
+    <root id="archive" name="kotlin-react-sample-1.0.0.jar">
+      <element id="module-output" name="com.yt8492.kotlin-react-sample.main" />
+    </root>
+  </artifact>
+</component>
